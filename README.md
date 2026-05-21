@@ -19,7 +19,6 @@ Participation in aquaculture and climate-related professional events contributed
 <p align="center">
   <img src="images/viestshrimp2024_badge.png" width="500">
 </p>
----
 
 ## Description
 
