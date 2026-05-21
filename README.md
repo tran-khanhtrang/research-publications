@@ -11,12 +11,14 @@ This repository contains academic publications, research reports, and thesis wor
 
 ## Research Background
 
-This research was developed in the context of climate adaptation challenges affecting aquaculture and shrimp production systems in the Mekong Delta, Vietnam.
-Keywords: Climate Change Adaptation, Aquaculture, Shrimp Value Chain, Mekong Delta, Sustainability
+This research was conducted in the context of climate adaptation challenges affecting aquaculture and shrimp production systems in the Mekong Delta, Vietnam.
+
+**Keywords:** Climate Change Adaptation, Aquaculture, Shrimp Value Chain, Mekong Delta, Sustainability
 
 ### Professional & Academic Engagement
 
-Participation in aquaculture and climate-related professional events contributed to the practical understanding of industry challenges and sustainability issues.
+Participation in aquaculture and climate-related professional events contributed to a practical understanding of industry challenges and sustainability issues.
+
 <p align="center">
   <img src="images/viestshrimp2024_badge.png" width="500">
 </p>
