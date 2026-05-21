@@ -4,14 +4,15 @@ This repository contains academic publications, research reports, and thesis wor
 
 ---
 
-# Master's Thesis in Economic Management
+# Master's Thesis in Economic Management (2024)
 
-## Title
-Research on the Shrimp Production Value Chain under Climate Change Adaptation in the Mekong Delta
+## Research Title
+*Research on the Shrimp Production Value Chain under Climate Change Adaptation in the Mekong Delta*
 
 ## Research Background
 
 This research was developed in the context of climate adaptation challenges affecting aquaculture and shrimp production systems in the Mekong Delta, Vietnam.
+Keywords: Climate Change Adaptation, Aquaculture, Shrimp Value Chain, Mekong Delta, Sustainability
 
 ### Professional & Academic Engagement
 
