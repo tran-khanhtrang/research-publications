@@ -145,3 +145,9 @@ Thuyloi University, Vietnam
   publisher    = {GitHub Research Publications Repository},
   url          = {https://github.com/tran-khanhtrang/research-publications}
 }
+@mastersthesis{tran2024shrimp,
+  author       = {Khanh Trang Tran},
+  title        = {Research on the Shrimp Production Value Chain under Climate Change Adaptation in the Mekong Delta},
+  school       = {Thuyloi University},
+  year         = {2024}
+}
