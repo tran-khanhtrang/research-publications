@@ -4,6 +4,13 @@ This repository contains academic publications, technical reports, research pape
 
 ---
 
+## Publications
+
+- [AI Parallel Computing & AI-PCAM (2026)](papers/AI-Parallel-Computing-AI-PCAM-TranKhanhTrang.pdf)
+- [Master's Thesis in Economic Management (2024)](papers/Economic-management-thesis-2024-TranKhanhTrang.pdf)
+
+---
+
 # Master's Thesis in Economic Management (2024)
 
 ## Research Title
@@ -50,6 +57,10 @@ The thesis combines theoretical analysis, industry observations, and practical p
 
 # AI Parallel Computing & AI-PCAM (2026)
 
+<p align="center">
+  <img src="images/ai_pcam_cover.png" width="350">
+</p>
+
 ## Research Title
 *AI Parallel Computing: From Classical Principles to Large-Scale Deep Learning Systems*
 
@@ -58,6 +69,7 @@ The thesis combines theoretical analysis, industry observations, and practical p
 The rapid development of modern Artificial Intelligence, particularly Large Language Models (LLMs) and Transformer-based architectures, has fundamentally transformed computational requirements in AI systems.
 
 This publication explores the intersection of:
+
 - Parallel Computing
 - Distributed AI Systems
 - GPU Architecture
@@ -91,10 +103,25 @@ The publication bridges concepts from traditional HPC and modern AI system engin
 
 ---
 
+## Current Research Directions
+
+- Distributed AI Systems
+- Physics-Informed Deep Learning
+- Hydrological Forecasting
+- AI for Climate Adaptation
+- GPU Parallel Computing
+- Digital Twin Systems
+- High Performance Computing (HPC)
+- Applied Machine Learning
+
+---
+
 ## Author
+
 Khanh Trang Tran
 
 ## Institution
+
 Thuyloi University, Vietnam
 
 ---
@@ -106,18 +133,15 @@ Thuyloi University, Vietnam
 
 ---
 
-## Research Interests
+## Citation
 
-- Artificial Intelligence
-- Distributed AI Systems
-- Parallel Computing
-- High Performance Computing (HPC)
-- Hydrological Forecasting
-- Physics-Informed AI
-- Climate Adaptation
-- Digital Twin Systems
-- Applied Machine Learning
+### AI Parallel Computing & AI-PCAM (2026)
 
----
-
-More publications, technical reports, and ongoing research projects will be added in the future.
+```bibtex
+@misc{tran2026aipcam,
+  author       = {Khanh Trang Tran},
+  title        = {AI Parallel Computing: From Classical Principles to Large-Scale Deep Learning Systems},
+  year         = {2026},
+  publisher    = {GitHub Research Publications Repository},
+  url          = {https://github.com/tran-khanhtrang/research-publications}
+}
