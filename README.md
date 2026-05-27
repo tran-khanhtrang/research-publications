@@ -142,9 +142,12 @@ Thuyloi University, Vietnam
   author       = {Khanh Trang Tran},
   title        = {AI Parallel Computing: From Classical Principles to Large-Scale Deep Learning Systems},
   year         = {2026},
-  publisher    = {GitHub Research Publications Repository},
+  howpublished = {\url{https://github.com/tran-khanhtrang/research-publications}},
   url          = {https://github.com/tran-khanhtrang/research-publications}
 }
+
+### Master's Thesis in Economic Management (2024)
+```bibtex
 @mastersthesis{tran2024shrimp,
   author       = {Khanh Trang Tran},
   title        = {Research on the Shrimp Production Value Chain under Climate Change Adaptation in the Mekong Delta},
