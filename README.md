@@ -145,6 +145,7 @@ Thuyloi University, Vietnam
   howpublished = {\url{https://github.com/tran-khanhtrang/research-publications}},
   url          = {https://github.com/tran-khanhtrang/research-publications}
 }
+```
 
 ### Master's Thesis in Economic Management (2024)
 ```bibtex
