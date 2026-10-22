@@ -5,7 +5,7 @@ This repository contains academic publications, technical reports, research pape
 ---
 
 ## Publications
-
+- [Tàu Hà Lan bay (2026)](papers/The%20Flying%20Dutchman%20-%20Tran%20Khanh%20Trang.pdf)
 - [AI Parallel Computing & AI-PCAM (2026)](papers/AI-Parallel-Computing-AI-PCAM-TranKhanhTrang.pdf)
 - [Master's Thesis in Economic Management (2024)](papers/Economic-management-thesis-2024-TranKhanhTrang.pdf)
 
@@ -54,6 +54,11 @@ The study focuses on:
 The thesis combines theoretical analysis, industry observations, and practical perspectives related to climate adaptation and aquaculture sustainability in Vietnam.
 
 ---
+# Tàu Hà Lan bay (2026)
+
+<p align="center">
+  <img src="images/Tau_Ha_Lan_bay.png" width="350">
+</p>
 
 # AI Parallel Computing & AI-PCAM (2026)
 
