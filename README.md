@@ -3,9 +3,10 @@
 This repository contains academic publications, technical reports, research papers, and thesis works authored by Khanh Trang Tran, focusing on Artificial Intelligence, Parallel Computing, Distributed Systems, Climate Adaptation, and Applied Research.
 
 ---
+## Creative Writing
+- [The Flying Dutchman - Tàu Hà Lan bay (2026)](papers/The%20Flying%20Dutchman%20-%20Tran%20Khanh%20Trang.pdf)
 
 ## Publications
-- [Tàu Hà Lan bay (2026)](papers/The%20Flying%20Dutchman%20-%20Tran%20Khanh%20Trang.pdf)
 - [AI Parallel Computing & AI-PCAM (2026)](papers/AI-Parallel-Computing-AI-PCAM-TranKhanhTrang.pdf)
 - [Master's Thesis in Economic Management (2024)](papers/Economic-management-thesis-2024-TranKhanhTrang.pdf)
 
@@ -105,6 +106,24 @@ Topics include:
 - AI-PCAM Analytical Framework
 
 The publication bridges concepts from traditional HPC and modern AI system engineering, providing both theoretical insights and practical implementation perspectives.
+
+---
+
+# The Flying Dutchman (Tàu Hà Lan Bay) — Short Story (2026)
+
+**[Read the short story (PDF)](papers/The%20Flying%20Dutchman%20-%20Tran%20Khanh%20Trang.pdf)**
+
+## About the Story
+
+*The Flying Dutchman* (*Tàu Hà Lan Bay*) is a contemporary Vietnamese short story about freedom, chance encounters, and the quiet generosity that connects people without binding them.
+
+The story follows **Captain**, a retired software engineer who runs a small coffee shop in Hanoi, and **Calypso**, an independent woman whose international work takes her from place to place. What begins as a conversation over coffee develops through unexpected journeys, playful exchanges, and a reunion by the sea.
+
+Drawing lightly on maritime mythology and the imagery of *The Flying Dutchman*, the story explores the difference between offering someone a place to return to and asking them to stay. Its central idea is simple: **kindness is a gift, not a debt to be repaid**.
+
+**Themes:** Human connection, personal freedom, kindness without obligation, companionship, and the meaning of home.
+
+**Genre:** Literary short fiction.
 
 ---
 
