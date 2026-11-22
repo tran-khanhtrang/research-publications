@@ -23,9 +23,9 @@ This study investigates physics-informed LSTM models for multi-horizon river wat
 - [The Flying Dutchman - Tàu Hà Lan bay (2026)](papers/The%20Flying%20Dutchman%20-%20Tran%20Khanh%20Trang.pdf)
 
 ## Publications
+- [Physics-Informed Residual LSTM for Multi-Horizon River Water Level Forecasting (2026)](https://doi.org/10.5281/zenodo.24440632) — Zenodo Preprint
 - [AI Parallel Computing & AI-PCAM (2026)](papers/AI-Parallel-Computing-AI-PCAM-TranKhanhTrang.pdf)
 - [Master's Thesis in Economic Management (2024)](papers/Economic-management-thesis-2024-TranKhanhTrang.pdf)
-
 ---
 
 # Master's Thesis in Economic Management (2024)
@@ -170,6 +170,7 @@ Thuyloi University, Vietnam
 
 - ORCID: https://orcid.org/0009-0006-8563-2200
 - GitHub: https://github.com/tran-khanhtrang
+- Zenodo: https://zenodo.org/records/24440632
 
 ---
 
@@ -195,3 +196,17 @@ Thuyloi University, Vietnam
   school       = {Thuyloi University},
   year         = {2024}
 }
+
+### Master's Thesis in IT (2026)
+```bibtex
+@misc{tran2026pilstm,
+  author       = {Tran, Khanh-Trang and Ta, Quang Chieu},
+  title        = {Physics-Informed residual LSTM with adaptive simplex loss weighting for multi-horizon river water level forecasting},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.24440632},
+  url          = {https://doi.org/10.5281/zenodo.24440632},
+  note         = {Preprint}
+}
+
