@@ -196,6 +196,7 @@ Thuyloi University, Vietnam
   school       = {Thuyloi University},
   year         = {2024}
 }
+```
 
 ### Master's Thesis in IT (2026)
 ```bibtex
