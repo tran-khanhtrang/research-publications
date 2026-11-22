@@ -198,10 +198,10 @@ Thuyloi University, Vietnam
 }
 ```
 
-### Master's Thesis in IT (2026)
+### Physics-Informed LSTM — Zenodo Preprint (2026)
 ```bibtex
 @misc{tran2026pilstm,
-  author       = {Tran, Khanh-Trang and Ta, Quang Chieu},
+  co-author       = {Tran, Khanh-Trang and Ta, Quang Chieu}, 
   title        = {Physics-Informed residual LSTM with adaptive simplex loss weighting for multi-horizon river water level forecasting},
   year         = {2026},
   publisher    = {Zenodo},
