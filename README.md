@@ -2,6 +2,22 @@
 
 This repository contains academic publications, technical reports, research papers, and thesis works authored by Khanh Trang Tran, focusing on Artificial Intelligence, Parallel Computing, Distributed Systems, Climate Adaptation, and Applied Research.
 
+
+### Physics-Informed LSTM for River Water Level Forecasting (2026)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24440632.svg)](https://doi.org/10.5281/zenodo.24440632)
+
+**Title:** Physics-Informed residual LSTM with adaptive simplex loss weighting for multi-horizon river water level forecasting
+
+**Authors:** Khanh-Trang Tran, Quang Chieu Ta  
+**Publication:** Zenodo Preprint, Version 1.0 (2026)  
+**DOI:** https://doi.org/10.5281/zenodo.24440632
+
+This study investigates physics-informed LSTM models for multi-horizon river water-level forecasting, using the Phan–Ca Lo river basin in Vietnam as a case study.
+
+[Read the preprint on Zenodo](https://zenodo.org/records/24440632)
+
+
 ---
 ## Creative Writing
 - [The Flying Dutchman - Tàu Hà Lan bay (2026)](papers/The%20Flying%20Dutchman%20-%20Tran%20Khanh%20Trang.pdf)
